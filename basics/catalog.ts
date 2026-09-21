@@ -5,7 +5,7 @@ type Resource = {
 };
 
 const items: Resource[] = [
-    {id: 1, minutes: 10, title: "one"},
+    {id: 1, minutes: 10, title: "Переробка для завдання"},
     {id: 2, minutes: 20, title: "two"},
     {id: 3, minutes: 30, title: "three"}
 ];
