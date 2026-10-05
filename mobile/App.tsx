@@ -5,8 +5,8 @@ import type { Resource } from './src/types';
 
 const resource: Resource = {
   id: 1,
-  title: 'Основи React Native',
-  minutes: 20,
+  title: 'Основи React Native Основи React Native',
+  minutes: 35,
 };
 
 export default function App() {
