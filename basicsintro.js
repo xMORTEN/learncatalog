@@ -16,7 +16,7 @@ console.log (label(16));
 const topic = "Git";
 console.log(topic);
 
-const age = [5, 8, 14, 17, 18, 19, 22, 36];с
+const age = [5, 8, 14, 17, 18, 19, 22, 36];
 const child = age.filter
 ((years) => years < 18
 );

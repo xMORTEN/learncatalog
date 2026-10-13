@@ -6,7 +6,7 @@ import type { Resource } from './src/types';
 const resource: Resource = {
   id: 1,
   title: 'Мережеві протоколи',
-  minutes: 35,
+  minutes: 55,
 };
 
 export default function App() {
